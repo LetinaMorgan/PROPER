@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "skills": {
+    "brand-naming": {
+      "source": "arnabbagxd/brand-building-skills",
+      "sourceType": "github",
+      "skillPath": "skills/brand-naming/SKILL.md",
+      "computedHash": "74b94a6c9bda97c20aa0b6ca6a1d41f4a24690bb4d46f55696c574e3e4c98eba"
+    },
+    "product-brainstorming": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "product-management/skills/product-brainstorming/SKILL.md",
+      "computedHash": "595e6cc5bb85da6b67b35c24d4d3906c6bac42a1fe4ecbe71fa154176d724c1b"
+    },
+    "product-capability": {
+      "source": "affaan-m/ecc",
+      "sourceType": "github",
+      "skillPath": "skills/product-capability/SKILL.md",
+      "computedHash": "126569a04b17b0f86c41f9566fc397c6c9ab3bd5895875165a5ff4bbc896a125"
+    }
+  }
+}
